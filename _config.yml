@@ -1,8 +1,8 @@
 title: "LiDAR Matrix"
 tagline: "Transportation Data Solutions"
 description: "LiDAR Matrix delivers LiDAR-driven transportation and traffic-safety data, analytics, and consulting for agencies, DOTs, and federally funded programs. Based in Reno, Nevada."
-url: "https://lidarmatrix.github.io"   # change to https://lidarmatrix.com after the domain transfer
-baseurl: ""
+url: "https://trevorwhitley.github.io"   # change to https://lidarmatrix.com after the domain transfer
+baseurl: "/lidarmatrix.github.io"        # served in a sub-path; set to "" after the domain transfer
 email: "INFO@LIDARMATRIX.COM"   # replace with the real address
 plugins:
   - jekyll-feed

@@ -54,7 +54,7 @@ permalink: /about/
     <div class="cta">
       <h2>Work with a team that knows agency data.</h2>
       <p>From a single intersection to a statewide study, we scope the collection, analytics, and deliverables around your goals.</p>
-      <a class="btn" href="/contact/">Start a Project</a>
+      <a class="btn" href="{{ '/contact/' | relative_url }}">Start a Project</a>
     </div>
   </div>
 </section>

@@ -99,6 +99,6 @@ permalink: /projects/
 
     </div>
 
-    <p class="note"><strong>More case studies in progress.</strong> Detailed write-ups with methodology, data samples, and results will be added here. To request project references or sample deliverables, <a href="/contact/">get in touch</a>.</p>
+    <p class="note"><strong>More case studies in progress.</strong> Detailed write-ups with methodology, data samples, and results will be added here. To request project references or sample deliverables, <a href="{{ '/contact/' | relative_url }}">get in touch</a>.</p>
   </div>
 </section>

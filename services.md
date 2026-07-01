@@ -54,7 +54,7 @@ permalink: /services/
     <div class="cta">
       <h2>Not sure which service fits your scope?</h2>
       <p>Send us the corridor, intersection, or grant program you're working on and we'll recommend an approach.</p>
-      <a class="btn" href="/contact/">Talk to us</a>
+      <a class="btn" href="{{ '/contact/' | relative_url }}">Talk to us</a>
     </div>
   </div>
 </section>

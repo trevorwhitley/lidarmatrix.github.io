@@ -13,8 +13,8 @@ permalink: /
     <h1>LiDAR-driven data for safer, smarter transportation.</h1>
     <p>LiDAR Matrix turns roadside laser scanning into anonymous, high-resolution trajectory data on every road user — helping agencies, DOTs, and federally funded programs measure safety and make decisions with evidence, not estimates.</p>
     <div class="btn-row">
-      <a class="btn" href="/services/">Our Services</a>
-      <a class="btn-outline" href="/contact/">Start a Project</a>
+      <a class="btn" href="{{ '/services/' | relative_url }}">Our Services</a>
+      <a class="btn-outline" href="{{ '/contact/' | relative_url }}">Start a Project</a>
     </div>
   </div>
 </section>
@@ -93,7 +93,7 @@ permalink: /
         </div>
       </div>
     </div>
-    <p style="margin-top:26px"><a class="btn-navy" href="/projects/">See all projects</a></p>
+    <p style="margin-top:26px"><a class="btn-navy" href="{{ '/projects/' | relative_url }}">See all projects</a></p>
   </div>
 </section>
 
@@ -102,7 +102,7 @@ permalink: /
     <div class="cta">
       <h2>Have a corridor, intersection, or grant scope in mind?</h2>
       <p>Tell us what you need to measure. We'll help you scope the data collection, analytics, and deliverables.</p>
-      <a class="btn" href="/contact/">Start a Project</a>
+      <a class="btn" href="{{ '/contact/' | relative_url }}">Start a Project</a>
     </div>
   </div>
 </section>
