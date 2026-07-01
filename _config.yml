@@ -1,0 +1,23 @@
+title: "LiDAR Matrix"
+tagline: "Transportation Data Solutions"
+description: "LiDAR Matrix delivers LiDAR-driven transportation and traffic-safety data, analytics, and consulting for agencies, DOTs, and federally funded programs. Based in Reno, Nevada."
+url: "https://lidarmatrix.github.io"   # change to https://lidarmatrix.com after the domain transfer
+baseurl: ""
+email: "INFO@LIDARMATRIX.COM"   # replace with the real address
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+nav:
+  - { name: "Home",     url: "/" }
+  - { name: "Services", url: "/services/" }
+  - { name: "Projects", url: "/projects/" }
+  - { name: "About",    url: "/about/" }
+  - { name: "Contact",  url: "/contact/" }
+exclude:
+  - preview
+  - _preview
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

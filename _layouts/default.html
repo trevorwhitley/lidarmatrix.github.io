@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/svg+xml" href="/assets/img/logo/favicon.svg">
+  <link rel="apple-touch-icon" href="/favicon-180.png">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  {% seo %}
+  {% feed_meta %}
+</head>
+<body>
+  <header class="site-header"><div class="wrap">
+    <a class="logo" href="/"><img src="/assets/img/logo/lidarmatrix-logo-reversed.svg" alt="LiDAR Matrix"></a>
+    <button class="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="site-nav">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav" id="site-nav">
+      {% for item in site.nav %}<a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.name }}</a>{% endfor %}
+    </nav>
+  </div></header>
+
+  <main>{{ content }}</main>
+
+  <footer class="site-footer"><div class="wrap cols">
+    <div>
+      <img src="/assets/img/logo/lidarmatrix-logo-reversed.svg" alt="LiDAR Matrix" style="height:40px;margin-bottom:12px">
+      <p>Transportation Data Solutions — Reno, Nevada.</p>
+      <p>LiDAR-driven data, analytics, and consulting for agencies, DOTs, and federally funded programs.</p>
+    </div>
+    <div><strong>Explore</strong><br>
+      {% for item in site.nav %}<a href="{{ item.url }}">{{ item.name }}</a><br>{% endfor %}
+    </div>
+    <div><strong>Contact</strong><br>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
+  </div>
+  <div class="wrap" style="margin-top:28px;font-size:.82rem;opacity:.7">© {{ 'now' | date: "%Y" }} LiDAR Matrix, Inc. All rights reserved.</div>
+  </footer>
+
+  <script>
+    (function(){
+      var t=document.querySelector('.nav-toggle'), n=document.getElementById('site-nav');
+      if(t&&n){t.addEventListener('click',function(){
+        var open=n.classList.toggle('open');
+        t.setAttribute('aria-expanded', open?'true':'false');
+      });}
+    })();
+  </script>
+</body>
+</html>
