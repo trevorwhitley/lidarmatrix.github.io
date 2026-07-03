@@ -9,7 +9,7 @@ permalink: /services/
   <div class="wrap">
     <p class="eyebrow">Services</p>
     <h1>Roadside LiDAR, from collection to conclusions.</h1>
-    <p>We run the full pipeline — sensor deployment, post-processing, analytics, and agency-ready deliverables — so you get defensible data without managing the technology.</p>
+    <p>We run the full pipeline: sensor deployment, post-processing, analytics, and agency-ready deliverables, so you get defensible data without managing the technology.</p>
   </div>
 </section>
 
@@ -24,17 +24,22 @@ permalink: /services/
   <div class="wrap">
     <p class="eyebrow">What you receive</p>
     <h2>Deliverables built for agency review</h2>
-    <p class="lead">Most engagements are delivered as two things: the data itself and the analysis of it.</p>
+    <p class="lead">Most engagements are delivered in a few forms: the data itself, map visualizations, and a written analysis.</p>
     <div class="cards">
       <div class="card">
         <div class="ico"><svg viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18"/><path d="M9 9v11"/><path d="M3 14h18"/></svg></div>
         <h3>Traffic-data spreadsheets</h3>
-        <p>Structured spreadsheets of the underlying data — counts, speeds, near misses, queue lengths, travel times, yield rates, signal compliance, and more — accompanied by a data dictionary so every field is documented.</p>
+        <p>Structured spreadsheets of the underlying data (counts, speeds, near misses, queue lengths, travel times, yield rates, signal compliance, and more), accompanied by a data dictionary so every field is documented.</p>
+      </div>
+      <div class="card">
+        <div class="ico"><svg viewBox="0 0 24 24"><path d="M9 5 3 7v12l6-2 6 2 6-2V5l-6 2-6-2z"/><path d="M9 5v12"/><path d="M15 7v12"/></svg></div>
+        <h3>Map visualizations (PNG)</h3>
+        <p>Location-based visualizations that map the results onto the study area. These are built into the report and also provided as a separate set of PNG image files you can reuse in your own documents.</p>
       </div>
       <div class="card">
         <div class="ico"><svg viewBox="0 0 24 24"><path d="M6 2h9l5 5v15a0 0 0 0 1 0 0H6z" stroke-linejoin="round"/><path d="M14 2v6h6"/><path d="M9 14h6"/><path d="M9 17h6"/></svg></div>
         <h3>Analytics report (PDF)</h3>
-        <p>A written analytics report presenting the requested metrics — with the findings, visualizations, and context an agency or reviewer needs to act on the data.</p>
+        <p>A written analytics report presenting the requested metrics, with the findings, visualizations, and context an agency or reviewer needs to act on the data.</p>
       </div>
     </div>
   </div>
@@ -44,15 +49,19 @@ permalink: /services/
   <div class="wrap">
     <p class="eyebrow">Common packages</p>
     <h2>Ways teams typically engage us</h2>
-    <p class="lead">Scopes are flexible — these are the packages agencies request most often, and any of the analytics above can be added, and the duration extended, as a project requires.</p>
+    <p class="lead">Scopes are flexible. These are the packages agencies request most often, and any of the analytics above can be added, and the duration extended, as a project requires.</p>
 
     <div class="feature">
       <h3>72-hour multimodal study</h3>
-      <p>Our most common package — 72 hours of multimodal counts, speeds, and near-miss data. Additional analytics can be added as needed, and the duration extended; a 5-day campaign is another common option.</p>
+      <p>Our most common package, delivering 72 hours of multimodal counts, speeds, and near-miss data. Additional analytics can be added as needed, and the duration extended; a 5-day campaign is another common option.</p>
     </div>
     <div class="feature">
       <h3>Quick-equip 24-hour counts</h3>
-      <p>A rapid-deployment package delivering 24 hours of count data — fast to stand up when you need volumes without a longer campaign.</p>
+      <p>A rapid-deployment package delivering 24 hours of count data, fast to stand up when you need volumes without a longer campaign.</p>
+    </div>
+    <div class="feature">
+      <h3>Corridor and network analysis</h3>
+      <p>For larger studies, we deploy multiple sensors to collect data continuously along an entire corridor or road network, capturing movement and performance across every intersection and segment rather than a single location.</p>
     </div>
   </div>
 </section>

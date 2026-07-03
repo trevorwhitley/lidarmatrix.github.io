@@ -9,6 +9,7 @@ permalink: /
 
 <section class="hero">
   <div class="wrap">
+    <p class="eyebrow">Transportation Data Solutions</p>
     <h1>LiDAR-driven data for safer, smarter transportation.</h1>
     <p>LiDAR Matrix turns roadside LiDAR scanning into anonymous, high-resolution trajectory data on every road user, helping agencies, DOTs, and federally funded programs measure safety and make data-driven decisions.</p>
     <div class="btn-row">
@@ -40,24 +41,24 @@ permalink: /
   <div class="wrap">
     <p class="eyebrow">Built for agencies &amp; federal programs</p>
     <h2>Credible data, delivered to standard</h2>
-    <p class="lead">LiDAR Matrix serves as a prime recipient on federally funded research and as a trusted sub-consultant to DOTs and cities. We deliver anonymous datasets, data management plans, user manuals, and data dictionaries.</p>
+    <p class="lead">LiDAR Matrix works as a prime recipient on federally funded research and as both a prime and sub-consultant for state and local agencies. We deliver anonymous datasets, data management plans, user manuals, and data dictionaries.</p>
     <div class="projects">
       <div class="project">
-        <div class="thumb">{% include thumb.html %}</div>
+        <div class="thumb">{% include thumb-fhwa.html %}</div>
         <div class="body">
           <span class="tag">U.S. DOT</span>
           <h3>LiDAR AI Solution for Pedestrian Movements</h3>
-          <p class="client">Federal Highway Administration — Exploratory Advanced Research (EAR)</p>
+          <p class="client">Federal Highway Administration, Exploratory Advanced Research (EAR)</p>
           <p>High-resolution pedestrian trajectory data across diverse urban, rural, and disadvantaged communities to fill national gaps in vulnerable-road-user safety.</p>
         </div>
       </div>
       <div class="project">
-        <div class="thumb">{% include thumb.html %}</div>
+        <div class="thumb">{% include thumb-ped-corridor.html %}</div>
         <div class="body">
           <span class="tag">Tennessee DOT</span>
-          <h3>Pedestrian Road Safety Initiative (PSRI) Data Collection Support</h3>
+          <h3>Pedestrian Road Safety Initiative (PRSI) Data Collection Support</h3>
           <p class="client">Chattanooga and Knoxville, TN</p>
-          <p>Collected and analyzed multimodal LiDAR data to assess pedestrian crossing activity, vehicle speeds, and pedestrian–vehicle interactions supporting data-driven safety improvements.</p>
+          <p>Collected and analyzed multimodal LiDAR data to assess pedestrian crossing activity, vehicle speeds, and pedestrian and vehicle interactions, supporting data-driven safety improvements.</p>
         </div>
       </div>
     </div>

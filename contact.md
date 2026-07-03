@@ -23,10 +23,10 @@ permalink: /contact/
         <h3>What to include</h3>
         <p>A few details help us respond with something useful right away:</p>
         <ul class="checklist">
-          <li>The location(s) — intersection, corridor, or study area.</li>
-          <li>What you need to measure — counts, speeds, conflicts, yield rates, pedestrian behavior, etc.</li>
-          <li>Who it's for — a local agency (city or MPO), a state DOT, or a consultant's proposal — and, if it's for a grant, which program (SS4A, SMART, Vision Zero, Safe Routes to School, and so on).</li>
-          <li>Your role and timeline — and whether you need us as a prime or a sub-consultant.</li>
+          <li>The location(s), intersection, corridor, or study area.</li>
+          <li>What you need to measure: counts, speeds, conflicts, yield rates, pedestrian behavior, etc.</li>
+          <li>Who it's for, a local agency (city or MPO), a state DOT, or a consultant's proposal, and, if it's for a grant, which program (SS4A, SMART, Vision Zero, Safe Routes to School, and so on).</li>
+          <li>Your role and timeline, and whether you need us as a prime or a sub-consultant.</li>
           <li>Any required deliverables or formats.</li>
         </ul>
       </div>
@@ -35,7 +35,7 @@ permalink: /contact/
         <div class="panel">
           <h3>Reach us</h3>
           <p><strong>Email</strong><br><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-          <p><strong>Phone</strong><br>(XXX) XXX-XXXX <!-- Placeholder: add phone --></p>
+          <p><strong>Phone</strong><br><a href="tel:+19165219643">(916) 521-9643</a></p>
           <p><strong>Location</strong><br>Reno, Nevada</p>
         </div>
         <div class="panel" style="margin-top:18px">
