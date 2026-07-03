@@ -25,11 +25,10 @@ permalink: /contact/
         <ul class="checklist">
           <li>The location(s) — intersection, corridor, or study area.</li>
           <li>What you need to measure — counts, speeds, conflicts, yield rates, pedestrian behavior, etc.</li>
-          <li>The context — agency, DOT, city, or a specific grant program (SS4A, SMART, and so on).</li>
+          <li>Who it's for — a local agency (city or MPO), a state DOT, or a consultant's proposal — and, if it's for a grant, which program (SS4A, SMART, Vision Zero, Safe Routes to School, and so on).</li>
           <li>Your role and timeline — and whether you need us as a prime or a sub-consultant.</li>
           <li>Any required deliverables or formats.</li>
         </ul>
-        <p class="note">A web contact form can be added here later (for example, via Formspree) so visitors can reach out without opening an email client.</p>
       </div>
 
       <div>
@@ -37,7 +36,7 @@ permalink: /contact/
           <h3>Reach us</h3>
           <p><strong>Email</strong><br><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
           <p><strong>Phone</strong><br>(XXX) XXX-XXXX <!-- Placeholder: add phone --></p>
-          <p><strong>Location</strong><br>Reno, Nevada<br><span style="color:var(--muted)">Mailing address to be added</span></p>
+          <p><strong>Location</strong><br>Reno, Nevada</p>
         </div>
         <div class="panel" style="margin-top:18px">
           <h3>Response time</h3>

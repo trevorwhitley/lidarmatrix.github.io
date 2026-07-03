@@ -18,12 +18,12 @@ permalink: /about/
     <div class="split">
       <div class="prose">
         <h3>Our story</h3>
-        <p>LiDAR Matrix began with a simple observation: agencies were making high-stakes safety decisions on thin data — short manual counts, rough estimates, and crash reports that arrive only after harm is done. Roadside LiDAR changes that. By scanning the road environment continuously and anonymously, it captures how every vehicle, pedestrian, and cyclist actually moves.</p>
-        <p>Emerging from research at the University of Nevada, Reno, our team helped pioneer roadside LiDAR sensing of multimodal traffic — including the first LiDAR-automated pedestrian warning beacon. That research foundation now serves agencies and cities as production data services.</p>
+        <p>LiDAR Matrix began with a need agencies kept running into: quickly deployable data collection for their projects, and reliable data on vulnerable road users — a gap that has long been hard to fill. The company started out in detailed smart-infrastructure research and development, but through market research we found that cost-effective, quick-equip data collection delivered far greater value for cost-constrained projects and for before-and-after studies that want to understand return on investment and properly prioritize countermeasure improvements.</p>
+        <p>That insight shaped what we do today. Emerging from research at the University of Nevada, Reno, our team helped pioneer roadside LiDAR sensing of multimodal traffic — and turned it into a practical, rapidly deployable service for agencies and cities.</p>
 
         <h3>How we work</h3>
-        <p>We deploy portable roadside sensors, process the raw point clouds into fully anonymous trajectories with AI, and deliver the specific measures a project calls for — from turning-movement counts to surrogate-safety conflict events. Along the way we produce the documentation agencies expect: data management plans, user manuals, and data dictionaries.</p>
-        <p>Privacy is built in. Our outputs are anonymous trajectories — object type, position, speed, and dimensions — not identities. That lets agencies study behavior and safety without collecting personal data.</p>
+        <p>We can quickly deploy anywhere from one to many sensing platforms — for spot studies, corridor studies, and before-and-after studies — over durations from hours to weeks, as a project requires. The platforms collect anonymous, aggregated data day and night at signalized intersections and across a variety of intersection and roadway types, from which we extract multimodal counts, surrogate-safety metrics, operational metrics, and other nuanced behavioral data.</p>
+        <p>Privacy is built in. Our outputs are anonymous, aggregated measures and trajectories — object type, position, speed, and dimensions — not identities. That lets agencies study behavior and safety without collecting personal data.</p>
 
         <h3>Who we serve</h3>
         <p>Our clients include state DOTs, regional transportation commissions, cities, and prime contractors — and we serve as a prime recipient on federally funded research such as the FHWA Exploratory Advanced Research program. We work comfortably as either a prime or a sub-consultant, sized to the scope.</p>

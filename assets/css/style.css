@@ -25,8 +25,8 @@ img{max-width:100%}
 
 /* Header / nav */
 .site-header{background:var(--navy);position:sticky;top:0;z-index:50}
-.site-header .wrap{display:flex;align-items:center;justify-content:space-between;height:76px}
-.site-header .logo img{height:38px;display:block}
+.site-header .wrap{display:flex;align-items:center;justify-content:space-between;height:92px}
+.site-header .logo img{height:56px;display:block}
 .site-nav a{color:#E8EDF1;font-weight:600;font-size:.95rem;margin-left:26px;text-decoration:none}
 .site-nav a:hover{color:var(--copper);text-decoration:none}
 .site-nav a[aria-current="page"]{color:var(--copper)}
@@ -104,10 +104,10 @@ img{max-width:100%}
 .prose h3{margin:1.8rem 0 .5rem;font-size:1.2rem}
 .checklist{list-style:none;padding:0;margin:0}
 .checklist li{position:relative;padding:0 0 .7rem 30px;color:var(--muted)}
-.checklist li::before{content:"";position:absolute;left:0;top:2px;width:18px;height:18px;border-radius:50%;
-  background:var(--copper-soft);}
-.checklist li::after{content:"";position:absolute;left:6px;top:7px;width:6px;height:9px;border-right:2px solid var(--copper);
-  border-bottom:2px solid var(--copper);transform:rotate(40deg)}
+.checklist li::before{content:"";position:absolute;left:0;top:3px;width:20px;height:20px;border-radius:50%;
+  background:var(--copper-soft)}
+.checklist li::after{content:"";position:absolute;left:7px;top:6px;width:5px;height:9px;border-right:2px solid var(--copper);
+  border-bottom:2px solid var(--copper);transform:rotate(45deg)}
 
 .note{background:var(--copper-soft);border-radius:12px;padding:16px 20px;color:var(--ink);font-size:.92rem;margin:24px 0 0}
 
@@ -127,7 +127,7 @@ img{max-width:100%}
   .split{grid-template-columns:1fr}
   .hero h1{font-size:2.1rem}
   .nav-toggle{display:block}
-  .site-nav{position:absolute;top:76px;left:0;right:0;background:var(--navy);flex-direction:column;
+  .site-nav{position:absolute;top:92px;left:0;right:0;background:var(--navy);flex-direction:column;
     display:none;padding:8px 24px 20px;border-top:1px solid rgba(255,255,255,.08)}
   .site-nav.open{display:flex}
   .site-nav a{margin:0;padding:12px 0;font-size:1rem;border-bottom:1px solid rgba(255,255,255,.06)}
