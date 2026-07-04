@@ -25,7 +25,7 @@ permalink: /contact/
         <ul class="checklist">
           <li>The location(s), intersection, corridor, or study area.</li>
           <li>What you need to measure: counts, speeds, conflicts, yield rates, pedestrian behavior, etc.</li>
-          <li>Who it's for, a local agency (city or MPO), a state DOT, or a consultant's proposal, and, if it's for a grant, which program (SS4A, SMART, Vision Zero, Safe Routes to School, and so on).</li>
+          <li>Who it's for, a local agency, a state DOT, or a consultant's proposal, and, if it's for a grant, which program.</li>
           <li>Your role and timeline, and whether you need us as a prime or a sub-consultant.</li>
           <li>Any required deliverables or formats.</li>
         </ul>

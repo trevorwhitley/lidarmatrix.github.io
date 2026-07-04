@@ -36,13 +36,13 @@ permalink: /about/
           <p><strong>Origin</strong><br>University of Nevada, Reno</p>
           <p><strong>Focus</strong><br>Roadside LiDAR data, traffic-safety analytics, and consulting</p>
           <p><strong>Roles</strong><br>Prime recipient and sub-consultant on agency and federal work</p>
-          <p><strong>Field footprint</strong><br>Nevada, Wyoming, and Colorado deployments</p>
+          <p><strong>Field footprint</strong><br>Nevada, Tennessee, Colorado, Wyoming, New Mexico, and Missouri deployments</p>
         </div>
         <div class="panel" style="margin-top:18px">
           <h3>Leadership</h3>
-          <img src="{{ '/assets/img/trevor-headshot.jpg' | relative_url }}" alt="Trevor Whitley, CEO of LiDAR Matrix" style="width:100%;max-width:190px;border-radius:12px;display:block;margin:0 0 12px">
+          <img src="{{ '/assets/img/trevor-headshot.jpg' | relative_url }}" alt="Trevor Whitley, CEO of LiDAR Matrix" style="width:150px;height:150px;border-radius:50%;object-fit:cover;object-position:top;display:block;margin:0 0 14px">
           <p style="margin:0 0 .5rem;color:var(--ink)"><strong>Trevor Whitley</strong><br><span style="color:var(--muted)">CEO</span></p>
-          <p>Trevor is CEO and serves as project manager and lead analyst, bringing both research and applied experience in LiDAR-based roadside data collection and analysis for consultants, state DOTs, and local agencies. He holds bachelor's and master's degrees in Civil Engineering from the University of Nevada, Reno, and his work spans pedestrian and vehicle counts, speed data, surrogate-safety measures, and before-and-after assessments across neighborhood network plans, pedestrian-safety, school-zone, and multimodal corridor studies.</p>
+          <p>Trevor serves as project manager and lead analyst, bringing both research and applied experience in LiDAR-based roadside data collection and analysis for consultants, FHWA, state DOTs, and local agencies.</p>
         </div>
       </div>
     </div>

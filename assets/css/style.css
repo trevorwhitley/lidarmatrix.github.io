@@ -25,7 +25,7 @@ img{max-width:100%}
 
 /* Header / nav */
 .site-header{background:var(--navy);position:sticky;top:0;z-index:50}
-.site-header .wrap{display:flex;align-items:center;justify-content:space-between;height:96px}
+.site-header .wrap{display:flex;align-items:center;justify-content:space-between;height:90px}
 .site-header .logo img{height:60px;display:block}
 .site-nav a{color:#E8EDF1;font-weight:600;font-size:.95rem;margin-left:26px;text-decoration:none}
 .site-nav a:hover{color:var(--copper);text-decoration:none}
@@ -127,7 +127,7 @@ img{max-width:100%}
   .split{grid-template-columns:1fr}
   .hero h1{font-size:2.1rem}
   .nav-toggle{display:block}
-  .site-nav{position:absolute;top:96px;left:0;right:0;background:var(--navy);flex-direction:column;
+  .site-nav{position:absolute;top:90px;left:0;right:0;background:var(--navy);flex-direction:column;
     display:none;padding:8px 24px 20px;border-top:1px solid rgba(255,255,255,.08)}
   .site-nav.open{display:flex}
   .site-nav a{margin:0;padding:12px 0;font-size:1rem;border-bottom:1px solid rgba(255,255,255,.06)}
